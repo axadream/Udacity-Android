@@ -10,4 +10,3 @@ A project can be launched by opening the build.gradle file located inside of the
 | ------- |------- | ----------- |
 |Android Basics: User Interface|Lesson03|[**Building Layout**](https://github.com/mathexa/Complete-Android-N-Udemy-course-for-Android-Studio-4/tree/master/JavaCode/Lecture022)|
 
-|  |  |
