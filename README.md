@@ -8,5 +8,5 @@ The projects are tested for mobile phones with a screen of 6.39'' (1080x2340 pix
 A project can be launched by opening the build.gradle file located inside of the project folder.
 | Course name | Lesson |Link|
 | ------- |------- | ----------- |
-|Android Basics: User Interface|Lesson03|[**Building Layout**](https://github.com/mathexa/Udacity-Android/tree/master/1_Lesson03|
+|Android Basics: User Interface|Lesson03|[**Building Layout**]|(https://github.com/mathexa/Udacity-Android/tree/master/1_Lesson03|
 
